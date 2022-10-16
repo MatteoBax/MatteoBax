@@ -3,9 +3,9 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoBax&layout=compact&theme=github_dark"
   />
   <br>
-  <img
+  <!--<img
     src="https://github-readme-stats.vercel.app/api?username=MatteoBax&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
-  />
+  />-->
   <br><br>
 </p>
 
