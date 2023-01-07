@@ -7,6 +7,8 @@
     src="https://github-readme-stats.vercel.app/api?username=MatteoBax&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
   />-->
   <br><br>
+  <br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=MatteoBax&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
