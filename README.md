@@ -1,6 +1,6 @@
 <p align = 'center'>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoBax&layout=compact&theme=github_dark&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoBax&layout=compact&theme=github_dark&langs_count=8"
   >
   <br>
   <br><br>
