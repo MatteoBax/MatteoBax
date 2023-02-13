@@ -1,4 +1,5 @@
 <p align = 'center'>
+  [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoBax&layout=compact&theme=github_dark&langs_count=8&exclude_repo=[lenovo-ideapad-15IML05-hackintosh]"
   >
